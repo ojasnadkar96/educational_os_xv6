@@ -1,4 +1,34 @@
-README - Homework 4 CS238P Fall Quarter 2018
+README
+
+Homework 3 CS238P Fall Quarter 2018
+
+Part 1
+
+example program:
+(bt.c)
+
+Functionality:
+Implemented a backtrace systemcall call which will print invocation history of the program on the console (syscall.c)
+
+Command on shell:
+USE COMMAND bt ON SHELL TO MAKE IT RUN
+
+$ bt
+
+Part 2
+
+example program:
+(ps.c)
+
+Functionality:
+Implemented a tool that lists all processes running on the system (proc.c)
+
+Command on shell:
+USE COMMAND ps ON SHELL TO MAKE IT RUN
+
+$ ps
+
+Homework 4 CS238P Fall Quarter 2018
 
 Part 1
 
@@ -10,6 +40,7 @@ Implemented thread_create(), thread_join() and thread_exit() in (proc.c)
 
 Command on shell:
 USE COMMAND thread ON SHELL TO MAKE IT RUN
+
 $ thread
 
 Part 2
