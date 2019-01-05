@@ -1,6 +1,6 @@
 Please refer to readme.txt for added functionality
 
-This project was done as a part of  Operating Systems (CS238P) course at University of California, Irvine 
+This project was implemented as a part of  Operating Systems (CS238P) course at University of California, Irvine 
 
 xv6 is a re-implementation of Dennis Ritchie's and Ken Thompson's Unix
 Version 6 (v6).  xv6 loosely follows the structure and style of v6,
